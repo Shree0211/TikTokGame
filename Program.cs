@@ -2,3 +2,4 @@
 Console.WriteLine("TicTacToe Game");
 
 TikTokGame.TicTacToeGame.BoardGame();
+TikTokGame.TicTacToeGame.Choose();
