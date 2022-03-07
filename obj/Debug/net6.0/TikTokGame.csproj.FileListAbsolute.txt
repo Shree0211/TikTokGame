@@ -1,0 +1,15 @@
+C:\Users\microsoft\source\repos\TikTokGame\bin\Debug\net6.0\TikTokGame.exe
+C:\Users\microsoft\source\repos\TikTokGame\bin\Debug\net6.0\TikTokGame.deps.json
+C:\Users\microsoft\source\repos\TikTokGame\bin\Debug\net6.0\TikTokGame.runtimeconfig.json
+C:\Users\microsoft\source\repos\TikTokGame\bin\Debug\net6.0\TikTokGame.dll
+C:\Users\microsoft\source\repos\TikTokGame\bin\Debug\net6.0\ref\TikTokGame.dll
+C:\Users\microsoft\source\repos\TikTokGame\bin\Debug\net6.0\TikTokGame.pdb
+C:\Users\microsoft\source\repos\TikTokGame\obj\Debug\net6.0\TikTokGame.csproj.AssemblyReference.cache
+C:\Users\microsoft\source\repos\TikTokGame\obj\Debug\net6.0\TikTokGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\microsoft\source\repos\TikTokGame\obj\Debug\net6.0\TikTokGame.AssemblyInfoInputs.cache
+C:\Users\microsoft\source\repos\TikTokGame\obj\Debug\net6.0\TikTokGame.AssemblyInfo.cs
+C:\Users\microsoft\source\repos\TikTokGame\obj\Debug\net6.0\TikTokGame.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\source\repos\TikTokGame\obj\Debug\net6.0\TikTokGame.dll
+C:\Users\microsoft\source\repos\TikTokGame\obj\Debug\net6.0\ref\TikTokGame.dll
+C:\Users\microsoft\source\repos\TikTokGame\obj\Debug\net6.0\TikTokGame.pdb
+C:\Users\microsoft\source\repos\TikTokGame\obj\Debug\net6.0\TikTokGame.genruntimeconfig.cache
