@@ -9,7 +9,8 @@ namespace TikTokGame
     public class TicTacToeGame
     {
         static char[] board = new char[10];
-        
+        static int player=1;
+     
         public static void BoardGame()
         {
             for(int i=1;i<board.Length;i++)
@@ -41,5 +42,18 @@ namespace TikTokGame
                     break;
             }
         }
+        public static void showBoard()
+        {
+            player = Convert.ToInt32(Console.ReadLine());
+            if (player == 'X')
+            {
+                Console.WriteLine("Computer Turn");
+                player++;
+            }
+            else
+                Console.WriteLine("Player Turn");
+                player++;
+        }
+        
     }
 }
