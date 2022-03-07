@@ -9,10 +9,10 @@ namespace TikTokGame
     
     public class TicTacToeGame
     {
-        static char[] board = new char[9];
+        static char[] board = new char[10];
         public static void BoardGame()
         {
-            for(int i=1;i<=board.Length;i++)
+            for(int i=1;i<board.Length;i++)
             {
                 Console.WriteLine(board[i] + "   ");
             }
